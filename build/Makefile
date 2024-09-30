@@ -129,6 +129,174 @@ agent_simulation/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/build
 .PHONY : agent_simulation/fast
 
+external/imgui/backends/imgui_impl_glfw.o: external/imgui/backends/imgui_impl_glfw.cpp.o
+.PHONY : external/imgui/backends/imgui_impl_glfw.o
+
+# target to build an object file
+external/imgui/backends/imgui_impl_glfw.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/backends/imgui_impl_glfw.cpp.o
+.PHONY : external/imgui/backends/imgui_impl_glfw.cpp.o
+
+external/imgui/backends/imgui_impl_glfw.i: external/imgui/backends/imgui_impl_glfw.cpp.i
+.PHONY : external/imgui/backends/imgui_impl_glfw.i
+
+# target to preprocess a source file
+external/imgui/backends/imgui_impl_glfw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/backends/imgui_impl_glfw.cpp.i
+.PHONY : external/imgui/backends/imgui_impl_glfw.cpp.i
+
+external/imgui/backends/imgui_impl_glfw.s: external/imgui/backends/imgui_impl_glfw.cpp.s
+.PHONY : external/imgui/backends/imgui_impl_glfw.s
+
+# target to generate assembly for a file
+external/imgui/backends/imgui_impl_glfw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/backends/imgui_impl_glfw.cpp.s
+.PHONY : external/imgui/backends/imgui_impl_glfw.cpp.s
+
+external/imgui/backends/imgui_impl_opengl3.o: external/imgui/backends/imgui_impl_opengl3.cpp.o
+.PHONY : external/imgui/backends/imgui_impl_opengl3.o
+
+# target to build an object file
+external/imgui/backends/imgui_impl_opengl3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/backends/imgui_impl_opengl3.cpp.o
+.PHONY : external/imgui/backends/imgui_impl_opengl3.cpp.o
+
+external/imgui/backends/imgui_impl_opengl3.i: external/imgui/backends/imgui_impl_opengl3.cpp.i
+.PHONY : external/imgui/backends/imgui_impl_opengl3.i
+
+# target to preprocess a source file
+external/imgui/backends/imgui_impl_opengl3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/backends/imgui_impl_opengl3.cpp.i
+.PHONY : external/imgui/backends/imgui_impl_opengl3.cpp.i
+
+external/imgui/backends/imgui_impl_opengl3.s: external/imgui/backends/imgui_impl_opengl3.cpp.s
+.PHONY : external/imgui/backends/imgui_impl_opengl3.s
+
+# target to generate assembly for a file
+external/imgui/backends/imgui_impl_opengl3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/backends/imgui_impl_opengl3.cpp.s
+.PHONY : external/imgui/backends/imgui_impl_opengl3.cpp.s
+
+external/imgui/imgui.o: external/imgui/imgui.cpp.o
+.PHONY : external/imgui/imgui.o
+
+# target to build an object file
+external/imgui/imgui.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui.cpp.o
+.PHONY : external/imgui/imgui.cpp.o
+
+external/imgui/imgui.i: external/imgui/imgui.cpp.i
+.PHONY : external/imgui/imgui.i
+
+# target to preprocess a source file
+external/imgui/imgui.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui.cpp.i
+.PHONY : external/imgui/imgui.cpp.i
+
+external/imgui/imgui.s: external/imgui/imgui.cpp.s
+.PHONY : external/imgui/imgui.s
+
+# target to generate assembly for a file
+external/imgui/imgui.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui.cpp.s
+.PHONY : external/imgui/imgui.cpp.s
+
+external/imgui/imgui_demo.o: external/imgui/imgui_demo.cpp.o
+.PHONY : external/imgui/imgui_demo.o
+
+# target to build an object file
+external/imgui/imgui_demo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_demo.cpp.o
+.PHONY : external/imgui/imgui_demo.cpp.o
+
+external/imgui/imgui_demo.i: external/imgui/imgui_demo.cpp.i
+.PHONY : external/imgui/imgui_demo.i
+
+# target to preprocess a source file
+external/imgui/imgui_demo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_demo.cpp.i
+.PHONY : external/imgui/imgui_demo.cpp.i
+
+external/imgui/imgui_demo.s: external/imgui/imgui_demo.cpp.s
+.PHONY : external/imgui/imgui_demo.s
+
+# target to generate assembly for a file
+external/imgui/imgui_demo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_demo.cpp.s
+.PHONY : external/imgui/imgui_demo.cpp.s
+
+external/imgui/imgui_draw.o: external/imgui/imgui_draw.cpp.o
+.PHONY : external/imgui/imgui_draw.o
+
+# target to build an object file
+external/imgui/imgui_draw.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_draw.cpp.o
+.PHONY : external/imgui/imgui_draw.cpp.o
+
+external/imgui/imgui_draw.i: external/imgui/imgui_draw.cpp.i
+.PHONY : external/imgui/imgui_draw.i
+
+# target to preprocess a source file
+external/imgui/imgui_draw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_draw.cpp.i
+.PHONY : external/imgui/imgui_draw.cpp.i
+
+external/imgui/imgui_draw.s: external/imgui/imgui_draw.cpp.s
+.PHONY : external/imgui/imgui_draw.s
+
+# target to generate assembly for a file
+external/imgui/imgui_draw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_draw.cpp.s
+.PHONY : external/imgui/imgui_draw.cpp.s
+
+external/imgui/imgui_tables.o: external/imgui/imgui_tables.cpp.o
+.PHONY : external/imgui/imgui_tables.o
+
+# target to build an object file
+external/imgui/imgui_tables.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_tables.cpp.o
+.PHONY : external/imgui/imgui_tables.cpp.o
+
+external/imgui/imgui_tables.i: external/imgui/imgui_tables.cpp.i
+.PHONY : external/imgui/imgui_tables.i
+
+# target to preprocess a source file
+external/imgui/imgui_tables.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_tables.cpp.i
+.PHONY : external/imgui/imgui_tables.cpp.i
+
+external/imgui/imgui_tables.s: external/imgui/imgui_tables.cpp.s
+.PHONY : external/imgui/imgui_tables.s
+
+# target to generate assembly for a file
+external/imgui/imgui_tables.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_tables.cpp.s
+.PHONY : external/imgui/imgui_tables.cpp.s
+
+external/imgui/imgui_widgets.o: external/imgui/imgui_widgets.cpp.o
+.PHONY : external/imgui/imgui_widgets.o
+
+# target to build an object file
+external/imgui/imgui_widgets.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_widgets.cpp.o
+.PHONY : external/imgui/imgui_widgets.cpp.o
+
+external/imgui/imgui_widgets.i: external/imgui/imgui_widgets.cpp.i
+.PHONY : external/imgui/imgui_widgets.i
+
+# target to preprocess a source file
+external/imgui/imgui_widgets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_widgets.cpp.i
+.PHONY : external/imgui/imgui_widgets.cpp.i
+
+external/imgui/imgui_widgets.s: external/imgui/imgui_widgets.cpp.s
+.PHONY : external/imgui/imgui_widgets.s
+
+# target to generate assembly for a file
+external/imgui/imgui_widgets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/external/imgui/imgui_widgets.cpp.s
+.PHONY : external/imgui/imgui_widgets.cpp.s
+
 src/cpp/Agent.o: src/cpp/Agent.cpp.o
 .PHONY : src/cpp/Agent.o
 
@@ -177,6 +345,54 @@ src/cpp/BehaviorTree.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/BehaviorTree.cpp.s
 .PHONY : src/cpp/BehaviorTree.cpp.s
 
+src/cpp/DataLogger.o: src/cpp/DataLogger.cpp.o
+.PHONY : src/cpp/DataLogger.o
+
+# target to build an object file
+src/cpp/DataLogger.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/DataLogger.cpp.o
+.PHONY : src/cpp/DataLogger.cpp.o
+
+src/cpp/DataLogger.i: src/cpp/DataLogger.cpp.i
+.PHONY : src/cpp/DataLogger.i
+
+# target to preprocess a source file
+src/cpp/DataLogger.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/DataLogger.cpp.i
+.PHONY : src/cpp/DataLogger.cpp.i
+
+src/cpp/DataLogger.s: src/cpp/DataLogger.cpp.s
+.PHONY : src/cpp/DataLogger.s
+
+# target to generate assembly for a file
+src/cpp/DataLogger.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/DataLogger.cpp.s
+.PHONY : src/cpp/DataLogger.cpp.s
+
+src/cpp/Environment.o: src/cpp/Environment.cpp.o
+.PHONY : src/cpp/Environment.o
+
+# target to build an object file
+src/cpp/Environment.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Environment.cpp.o
+.PHONY : src/cpp/Environment.cpp.o
+
+src/cpp/Environment.i: src/cpp/Environment.cpp.i
+.PHONY : src/cpp/Environment.i
+
+# target to preprocess a source file
+src/cpp/Environment.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Environment.cpp.i
+.PHONY : src/cpp/Environment.cpp.i
+
+src/cpp/Environment.s: src/cpp/Environment.cpp.s
+.PHONY : src/cpp/Environment.s
+
+# target to generate assembly for a file
+src/cpp/Environment.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Environment.cpp.s
+.PHONY : src/cpp/Environment.cpp.s
+
 src/cpp/MoveAction.o: src/cpp/MoveAction.cpp.o
 .PHONY : src/cpp/MoveAction.o
 
@@ -200,6 +416,78 @@ src/cpp/MoveAction.s: src/cpp/MoveAction.cpp.s
 src/cpp/MoveAction.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/MoveAction.cpp.s
 .PHONY : src/cpp/MoveAction.cpp.s
+
+src/cpp/QuadTree.o: src/cpp/QuadTree.cpp.o
+.PHONY : src/cpp/QuadTree.o
+
+# target to build an object file
+src/cpp/QuadTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/QuadTree.cpp.o
+.PHONY : src/cpp/QuadTree.cpp.o
+
+src/cpp/QuadTree.i: src/cpp/QuadTree.cpp.i
+.PHONY : src/cpp/QuadTree.i
+
+# target to preprocess a source file
+src/cpp/QuadTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/QuadTree.cpp.i
+.PHONY : src/cpp/QuadTree.cpp.i
+
+src/cpp/QuadTree.s: src/cpp/QuadTree.cpp.s
+.PHONY : src/cpp/QuadTree.s
+
+# target to generate assembly for a file
+src/cpp/QuadTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/QuadTree.cpp.s
+.PHONY : src/cpp/QuadTree.cpp.s
+
+src/cpp/Renderer.o: src/cpp/Renderer.cpp.o
+.PHONY : src/cpp/Renderer.o
+
+# target to build an object file
+src/cpp/Renderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Renderer.cpp.o
+.PHONY : src/cpp/Renderer.cpp.o
+
+src/cpp/Renderer.i: src/cpp/Renderer.cpp.i
+.PHONY : src/cpp/Renderer.i
+
+# target to preprocess a source file
+src/cpp/Renderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Renderer.cpp.i
+.PHONY : src/cpp/Renderer.cpp.i
+
+src/cpp/Renderer.s: src/cpp/Renderer.cpp.s
+.PHONY : src/cpp/Renderer.s
+
+# target to generate assembly for a file
+src/cpp/Renderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Renderer.cpp.s
+.PHONY : src/cpp/Renderer.cpp.s
+
+src/cpp/Terrain.o: src/cpp/Terrain.cpp.o
+.PHONY : src/cpp/Terrain.o
+
+# target to build an object file
+src/cpp/Terrain.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Terrain.cpp.o
+.PHONY : src/cpp/Terrain.cpp.o
+
+src/cpp/Terrain.i: src/cpp/Terrain.cpp.i
+.PHONY : src/cpp/Terrain.i
+
+# target to preprocess a source file
+src/cpp/Terrain.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Terrain.cpp.i
+.PHONY : src/cpp/Terrain.cpp.i
+
+src/cpp/Terrain.s: src/cpp/Terrain.cpp.s
+.PHONY : src/cpp/Terrain.s
+
+# target to generate assembly for a file
+src/cpp/Terrain.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/agent_simulation.dir/build.make CMakeFiles/agent_simulation.dir/src/cpp/Terrain.cpp.s
+.PHONY : src/cpp/Terrain.cpp.s
 
 src/cpp/main.o: src/cpp/main.cpp.o
 .PHONY : src/cpp/main.o
@@ -234,15 +522,51 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... agent_simulation"
+	@echo "... external/imgui/backends/imgui_impl_glfw.o"
+	@echo "... external/imgui/backends/imgui_impl_glfw.i"
+	@echo "... external/imgui/backends/imgui_impl_glfw.s"
+	@echo "... external/imgui/backends/imgui_impl_opengl3.o"
+	@echo "... external/imgui/backends/imgui_impl_opengl3.i"
+	@echo "... external/imgui/backends/imgui_impl_opengl3.s"
+	@echo "... external/imgui/imgui.o"
+	@echo "... external/imgui/imgui.i"
+	@echo "... external/imgui/imgui.s"
+	@echo "... external/imgui/imgui_demo.o"
+	@echo "... external/imgui/imgui_demo.i"
+	@echo "... external/imgui/imgui_demo.s"
+	@echo "... external/imgui/imgui_draw.o"
+	@echo "... external/imgui/imgui_draw.i"
+	@echo "... external/imgui/imgui_draw.s"
+	@echo "... external/imgui/imgui_tables.o"
+	@echo "... external/imgui/imgui_tables.i"
+	@echo "... external/imgui/imgui_tables.s"
+	@echo "... external/imgui/imgui_widgets.o"
+	@echo "... external/imgui/imgui_widgets.i"
+	@echo "... external/imgui/imgui_widgets.s"
 	@echo "... src/cpp/Agent.o"
 	@echo "... src/cpp/Agent.i"
 	@echo "... src/cpp/Agent.s"
 	@echo "... src/cpp/BehaviorTree.o"
 	@echo "... src/cpp/BehaviorTree.i"
 	@echo "... src/cpp/BehaviorTree.s"
+	@echo "... src/cpp/DataLogger.o"
+	@echo "... src/cpp/DataLogger.i"
+	@echo "... src/cpp/DataLogger.s"
+	@echo "... src/cpp/Environment.o"
+	@echo "... src/cpp/Environment.i"
+	@echo "... src/cpp/Environment.s"
 	@echo "... src/cpp/MoveAction.o"
 	@echo "... src/cpp/MoveAction.i"
 	@echo "... src/cpp/MoveAction.s"
+	@echo "... src/cpp/QuadTree.o"
+	@echo "... src/cpp/QuadTree.i"
+	@echo "... src/cpp/QuadTree.s"
+	@echo "... src/cpp/Renderer.o"
+	@echo "... src/cpp/Renderer.i"
+	@echo "... src/cpp/Renderer.s"
+	@echo "... src/cpp/Terrain.o"
+	@echo "... src/cpp/Terrain.i"
+	@echo "... src/cpp/Terrain.s"
 	@echo "... src/cpp/main.o"
 	@echo "... src/cpp/main.i"
 	@echo "... src/cpp/main.s"
